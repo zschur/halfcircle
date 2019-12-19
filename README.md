@@ -2,11 +2,17 @@
 App to show availability of parking spots in the Muhlenberg College circle.
 
 To run on local machine:
-  REQUIREMENTS:
+  
+ REQUIREMENTS:
+ 
     - RaspberryPi
+    
     - PIR sensor
+    
     - Internet connection
+    
     - webserver
+    
     - Xcode
   
   1. Download all files
